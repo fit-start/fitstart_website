@@ -17,7 +17,7 @@ export function HeroSection() {
             Transform your fitness journey with our comprehensive platform. Get access to expert trainers,
             premium facilities, and a supportive community all in one place.
           </p>
-          <div className="flex gap-4 pt-2">
+          <div className="flex justify-center lg:justify-start gap-4 pt-2">
             <Link 
               href="/get-app" 
               className="bg-primary text-background px-6 py-3 rounded-full hover:bg-opacity-90 transition-all inline-flex items-center gap-2 text-sm md:text-base"
